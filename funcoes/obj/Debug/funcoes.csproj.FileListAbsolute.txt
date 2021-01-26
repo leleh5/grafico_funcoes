@@ -1,0 +1,10 @@
+C:\Users\lelir\source\repos\funcoes\funcoes\bin\Debug\funcoes.exe.config
+C:\Users\lelir\source\repos\funcoes\funcoes\bin\Debug\funcoes.exe
+C:\Users\lelir\source\repos\funcoes\funcoes\bin\Debug\funcoes.pdb
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.csprojAssemblyReference.cache
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.Form1.resources
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.Properties.Resources.resources
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.csproj.GenerateResource.cache
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.exe
+C:\Users\lelir\source\repos\funcoes\funcoes\obj\Debug\funcoes.pdb
